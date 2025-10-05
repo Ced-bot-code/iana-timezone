@@ -1,1728 +1,1985 @@
 {
-"Africa/Abidjan":{
-    "0":["GMT", "Greenwich Mean Time"]
-},
-"Africa/Accra":{
-    "0":["GMT", "Greenwich Mean Time"]
-},
-"Africa/Addis_Ababa":{
-    "0":["EAT", "East Africa Time"]
-},
-"Africa/Algiers":{
-    "1":["CET", "Central European Time"]
-},                   
-"Africa/Asmara":{
-  "3":["EAT", "East Africa Time"]  
-},                    
-"Africa/Asmera":{
-    "3":["EAT", "East Africa Time"]
-},                    
-"Africa/Bamako":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                    
-"Africa/Bangui":{
-    "1":["WAT", "West Africa Time"]
-},                    
-"Africa/Banjul":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                    
-"Africa/Blantyre":{
-    "2":["CAT", "Central Africa Time"]
-},                  
-"Africa/Brazzaville":{
-    "1":["WAT", "West Africa Time"]
-},               
-"Africa/Bujumbura":{
-    "2":["CAT", "Central Africa Time"]
-},                 
-"Africa/Cairo":{
-    "2":["EET", "Eastern European Time"],
-    "3":["EEST", "Eastern European Summer Time"]
-},                     
-"Africa/Casablanca":{
-    "0":["+00", ""],
-    "1":["+01", ""]
-},                
-"Africa/Ceuta":{
-    "1":["CET", "Central European Time"],
-    "2":["CEST", "Central European Summer Time"]
-},                     
-"Africa/Conakry":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                   
-"Africa/Dakar":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                     
-"Africa/Dar_es_Salaam":{
-    "3":["EAT", "East Africa Time"]
-},             
-"Africa/Djibouti":{
-    "3":["EAT", "East Africa Time"]
-},                  
-"Africa/Douala":{
-    "1":["WAT", "West Africa Time"] 
-},                    
-"Africa/El_Aaiun":{
-    "0":["WET", "Western European Time"],
-    "1":["WEST", "Western European Summer Time"]
-},                  
-"Africa/Freetown":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                  
-"Africa/Gaborone":{
-    "2":["CAT", "Central Africa Time"]
-},                  
-"Africa/Harare":{
-    "2":["CAT", "Central Africa Time"]
-},                    
-"Africa/Johannesburg":{
-    "2":["SAST", "South Africa Standard Time"]
-},              
-"Africa/Juba":{
-    "2":["CAT", "Central Africa Time"]
-},                      
-"Africa/Kampala":{
-    "3":["EAT", "East Africa Time"]
-},                   
-"Africa/Khartoum":{
-    "2":["CAT", "Central Africa Time"]
-},                  
-"Africa/Kigali":{
-    "2":["CAT", "Central Africa Time"]
-},                    
-"Africa/Kinshasa":{
-    "1":["WAT", "West Africa Time"]
-},                  
-"Africa/Lagos":{
-    "1":["WAT", "West Africa Time"]
-},                     
-"Africa/Libreville":{
-    "1":["WAT", "West Africa Time"]
-},                
-"Africa/Lome":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                      
-"Africa/Luanda":{
-    "1":["WAT", "West Africa Time"]
-},                    
-"Africa/Lubumbashi":{
-    "2":["CAT", "Central Africa Time"]
-},                
-"Africa/Lusaka":{
-    "2":["CAT", "Central Africa Time"]
-},                    
-"Africa/Malabo":{
-    "1":["WAT", "West Africa Time"]
-},                    
-"Africa/Maputo":{
-    "2":["CAT", "Central Africa Time"]
-},                    
-"Africa/Maseru":{
-    "2":["SAST", "South Africa Standard Time"]
-},                    
-"Africa/Mbabane":{
-    "2":["SAST", "South Africa Standard Time"]
-},                   
-"Africa/Mogadishu":{
-    "3":["EAT", "East Africa Time"]
-},                 
-"Africa/Monrovia":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                  
-"Africa/Nairobi":{
-    "3":["EAT", "East Africa Time"]
-},                   
-"Africa/Ndjamena":{
-    "1":["WAT", "West Africa Time"]
-},                  
-"Africa/Niamey":{
-    "1":["WAT", "West Africa Time"]
-},                    
-"Africa/Nouakchott":{
-    "0":["GMT", "Greenwich Mean Time"]
-},              
-"Africa/Ouagadougou":{
-    "0":["GMT", "Greenwich Mean Time"]
-},               
-"Africa/Porto-Novo":{
-    "1":["WAT", "West Africa Time"]
-},                
-"Africa/Sao_Tome":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                  
-"Africa/Timbuktu":{
-    "0":["GMT", "Greenwich Mean Time"]
-},                  
-"Africa/Tripoli":{
-    "2":["EET", "Eastern European Time"]
-},                   
-"Africa/Tunis":{
-    "1":["CET", "Central European Time"]
-},                     
-"Africa/Windhoek":{
-    "2":["CAT", "Central Africa Time"]
-},                  
-"America/Adak":{
-    "-10":["HST", "Hawaii-Aleutian Standard Time"],
-    "-9":["HDT", "Hawaii-Aleutian Daylight Time"]
-},                     
-"America/Anchorage":{
-    "-9":["AKST", "Alaska Standard Time"],
-    "-8":["AKDT", "Alaska Daylight Time"]
-},                
-"America/Anguilla":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                 
-"America/Antigua":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                  
-"America/Araguaina":{
-    "-3":["-03", ""]
-},                
-"America/Argentina/Buenos_Aires":{
-    "-3":["-03", ""]
-},   
-"America/Argentina/Catamarca":{
-    "-3":["-03", ""]
-},      
-"America/Argentina/ComodRivadavia":{
-    "-3":["-03", ""]
-}, 
-"America/Argentina/Cordoba":{
-    "-3":["-03", ""]
-},        
-"America/Argentina/Jujuy":{
-    "-3":["-03", ""]
-},          
-"America/Argentina/La_Rioja":{
-    "-3":["-03", ""]
-},       
-"America/Argentina/Mendoza":{
-    "-3":["-03", ""]
-},        
-"America/Argentina/Rio_Gallegos":{
-    "-3":["-03", ""]
-},   
-"America/Argentina/Salta":{
-    "-3":["-03", ""]
-},          
-"America/Argentina/San_Juan":{
-    "-3":["-03", ""]
-},       
-"America/Argentina/San_Luis":{
-    "-3":["-03", ""]
-},       
-"America/Argentina/Tucuman":{
-    "-3":["-03", ""]
-},        
-"America/Argentina/Ushuaia":{
-    "-3":["-03", ""]
-},        
-"America/Aruba":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                    
-"America/Asuncion":{
-    "-3":["-03", ""]
-},                 
-"America/Atikokan":{
-    "-5":["EST", "Eastern Standard Time"]
-},                 
-"America/Atka":{
-    "-10":["HST", "Hawaii-Aleutian Standard Time"],
-    "-9":["HDT", "Hawaii-Aleutian Daylight Time"]
-},                     
-"America/Bahia":{
-    "-3":["-03", ""]
-},                    
-"America/Bahia_Banderas":{
-    "-6":["CST", "Central Standard Time"]
-},           
-"America/Barbados":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                 
-"America/Belem":{
-    "-3":["-03", ""]
-},                    
-"America/Belize":{
-    "-6":["CST", "Central Standard Time"]
-},                   
-"America/Blanc-Sablon":{
-    "-4":["AST", "Atlantic Standard Time"]
-},             
-"America/Boa_Vista":{
-    "-4":["-04", ""]
-},                
-"America/Bogota":{
-    "-5":["COT", "Colombia Time"]
-},                   
-"America/Boise":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},                    
-"America/Buenos_Aires":{
-    "-3":["ART", "Argentina Time"]
-},             
-"America/Cambridge_Bay":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},            
-"America/Campo_Grande":{
-    "-4":["-04", ""]
-},             
-"America/Cancun":{
-    "-5":["EST", "Eastern Standard Time"]
-},                   
-"America/Caracas":{
-    "-4":["VET", "Venezuelan Standard Time"]
-},                  
-"America/Catamarca":{
-    "-3":["-03", ""]
-},                
-"America/Cayenne":{
-    "-3":["-03", ""]
-},                  
-"America/Cayman":{
-    "-5":["EST", "Eastern Standard Time"]
-},                   
-"America/Chicago":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},                  
-"America/Chihuahua":{
-    "-6":["CST", "Central Standard Time"]
-},       
-"America/Ciudad_Juarez":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},     
-"America/Coral_Harbour":{
-    "-5":["EST", "Eastern Standard Time"]
-},            
-"America/Cordoba":{
-    "-3":["-03", ""]
-},                  
-"America/Costa_Rica":{
-    "-6":["CST", "Central Standard Time"]
-},               
-"America/Coyhaique":{
-    "-3":["-03", ""]   
-},
-"America/Creston":{
-    "-7":["MST", "Mountain Standard Time"]
-},                  
-"America/Cuiaba":{
-    "-4":["-04", ""]
-},                   
-"America/Curacao":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                  
-"America/Danmarkshavn":{
-    "0":["GMT", "Greenwich Mean Time"]
-},             
-"America/Dawson":{
-    "-7":["MST", "Mountain Standard Time"]
-},                   
-"America/Dawson_Creek":{
-    "-7":["MST", "Mountain Standard Time"]
-},             
-"America/Denver":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},                   
-"America/Detroit":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},                  
-"America/Dominica":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                 
-"America/Edmonton":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},                 
-"America/Eirunepe":{
-    "-5":["-05", ""]
-},                 
-"America/El_Salvador":{
-    "-6":["CST", "Central Standard Time"]
-},              
-"America/Ensenada":{
-    "-8":["PST", "Pacific Standard Time"],
-    "-7":["PDT", "Pacific Daylight Time"]
-},                 
-"America/Fort_Nelson":{
-    "-7":["MST", "Mountain Standard Time"]
-},
-"America/Fort_Wayne":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},               
-"America/Fortaleza":{
-    "-3":["-03", ""]
-},                
-"America/Glace_Bay":{
-    "-4":["AST", "Atlantic Standard Time"],
-    "-3":["ADT", "Atlantic Daylight Time"]
-},                
-"America/Godthab":{
-    "-2":["-02", ""],
-    "-1":["-01", ""]
-},                  
-"America/Goose_Bay":{
-    "-4":["AST", "Atlantic Standard Time"],
-    "-3":["ADT", "Atlantic Daylight Time"]
-},                
-"America/Grand_Turk":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},               
-"America/Grenada":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                  
-"America/Guadeloupe":{
-    "-4":["AST", "Atlantic Standard Time"]
-},               
-"America/Guatemala":{
-    "-6":["CST", "Central Standard Time"]
-},                
-"America/Guayaquil":{
-    "-5":["ECT", "Ecuador Time"]
-},                
-"America/Guyana":{
-    "-4":["GYT", "Guyana Time"]
-},                   
-"America/Halifax":{
-    "-4":["AST", "Atlantic Standard Time"],
-    "-3":["ADT", "Atlantic Daylight Time"]
-},                  
-"America/Havana":{
-    "-5":["CST", "Cuba Standard Time"],
-    "-4":["CDT", "Cuba Daylight Time"]
-},                   
-"America/Hermosillo":{
-    "-7":["MST", "Mountain Standard Time"]
-},               
-"America/Indiana/Indianapolis":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},     
-"America/Indiana/Knox":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},             
-"America/Indiana/Marengo":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},          
-"America/Indiana/Petersburg":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},       
-"America/Indiana/Tell_City":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},        
-"America/Indiana/Valparaiso":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},       
-"America/Indiana/Vevay":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},            
-"America/Indiana/Vincennes":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},        
-"America/Indiana/Winamac":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},          
-"America/Indianapolis":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},             
-"America/Inuvik":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},                   
-"America/Iqaluit":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},                  
-"America/Jamaica":{
-    "-5":["EST", "Eastern Standard Time"]
-},                  
-"America/Jujuy":{
-    "-3":["-03", ""]
-},                    
-"America/Juneau":{
-    "-9":["AKST", "Alaska Standard Time"],
-    "-8":["AKDT", "Alaska Daylight Time"]
-},                   
-"America/Kentucky/Louisville":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},      
-"America/Kentucky/Monticello":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},      
-"America/Knox_IN":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},                  
-"America/Kralendijk":{
-    "-4":["AST", "Atlantic Standard Time"]
-},               
-"America/La_Paz":{
-    "-4":["-04", ""]
-},                   
-"America/Lima":{
-    "-5":["PET", "Peru Time"]
-},                     
-"America/Los_Angeles":{
-    "-8":["PST", "Pacific Standard Time"],
-    "-7":["PDT", "Pacific Daylight Time"]
-},              
-"America/Louisville":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},               
-"America/Lower_Princes":{
-    "-4":["AST", "Atlantic Standard Time"]
-},            
-"America/Maceio":{
-    "-3":["-03", ""]
-},                   
-"America/Managua":{
-    "-6":["CST", "Central Standard Time"]
-},                  
-"America/Manaus":{
-    "-4":["-04", ""]
-},                   
-"America/Marigot":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                  
-"America/Martinique":{
-    "-4":["AST", "Atlantic Standard Time"]
-},               
-"America/Matamoros":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},                
-"America/Mazatlan":{
-    "-7":["MST", "Mountain Standard Time"]
-},                 
-"America/Mendoza":{
-    "-3":["-03", ""]
-},                  
-"America/Menominee":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},                
-"America/Merida":{
-    "-6":["CST", "Central Standard Time"]
-},                   
-"America/Metlakatla":{
-    "-9":["AKST", "Alaska Standard Time"],
-    "-8":["AKDT", "Alaska Daylight Time"]
-},               
-"America/Mexico_City":{
-    "-6":["CST", "Central Standard Time"]
-},              
-"America/Miquelon":{
-    "-3":["-03", ""],
-    "-2":["-02", ""]
-},                 
-"America/Moncton":{
-    "-4":["AST", "Atlantic Standard Time"],
-    "-3":["ADT", "Atlantic Daylight Time"]
-},                  
-"America/Monterrey":{
-    "-6":["CST", "Central Standard Time"]
-},                
-"America/Montevideo":{
-    "-3":["-03", ""]
-},               
-"America/Montreal":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},                 
-"America/Montserrat":{
-    "-4":["AST", "Atlantic Standard Time"]
-},               
-"America/Nassau":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},                   
-"America/New_York":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},                 
-"America/Nipigon":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},                  
-"America/Nome":{
-    "-9":["AKST", "Alaska Standard Time"],
-    "-8":["AKDT", "Alaska Daylight Time"]
-},                     
-"America/Noronha":{
-    "-2":["-02", ""]
-},                  
-"America/North_Dakota/Beulah":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},      
-"America/North_Dakota/Center":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},      
-"America/North_Dakota/New_Salem":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},   
-"America/Nuuk":{
-    "-2":["-02", ""],
-    "-1":["-01", ""]
-},
-"America/Ojinaga":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},                  
-"America/Panama":{
-    "-5":["EST", "Eastern Standard Time"]
-},                   
-"America/Pangnirtung":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},              
-"America/Paramaribo":{
-    "-3":["-03", ""]
-},               
-"America/Phoenix":{
-    "-7":["MST", "Mountain Standard Time"]
-},                  
-"America/Port-au-Prince":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},
-"America/Port_of_Spain":{
-    "-4":["AST", "Atlantic Standard Time"]
-},               
-"America/Porto_Acre":{
-    "-5":["-05", ""]
-},               
-"America/Porto_Velho":{
-    "-4":["-04", ""]
-},              
-"America/Puerto_Rico":{
-    "-4":["AST", "Atlantic Standard Time"]
-},              
-"America/Punta_Arenas":{
-    "-3":["-03", ""]
-},
-"America/Rainy_River":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},              
-"America/Rankin_Inlet":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},             
-"America/Recife":{
-    "-3":["-03", ""]
-},                   
-"America/Regina":{
-    "-6":["CST", "Central Standard Time"]
-},                   
-"America/Resolute":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},                 
-"America/Rio_Branco":{
-    "-5":["-05", ""]
-},               
-"America/Rosario":{
-    "-3":["-03", ""]
-},                  
-"America/Santa_Isabel":{
-    "-8":["PST", "Pacific Standard Time"],
-    "-7":["PDT", "Pacific Daylight Time"]
-},             
-"America/Santarem":{
-    "-3":["-03", ""]
-},                 
-"America/Santiago":{
-    "-4":["-04", ""],
-    "-3":["-03", ""]
-},                 
-"America/Santo_Domingo":{
-    "-4":["AST", "Atlantic Standard Time"]
-},            
-"America/Sao_Paulo":{
-    "-3":["-03", ""]
-},                
-"America/Scoresbysund":{
-    "-2":["-02", ""],
-    "-1":["-01", ""]
-},             
-"America/Shiprock":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},                 
-"America/Sitka":{
-    "-9":["AKST", "Alaska Standard Time"],
-    "-8":["AKDT", "Alaska Daylight Time"]
-},                    
-"America/St_Barthelemy":{
-    "-4":["AST", "Atlantic Standard Time"]
-},            
-"America/St_Johns":{
-    "-3.5":["NST", "Newfoundland Standard Time"],
-    "-2.5":["NDT", "Newfoundland Daylight Time"]
-},                 
-"America/St_Kitts":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                 
-"America/St_Lucia":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                 
-"America/St_Thomas":{
-    "-4":["AST", "Atlantic Standard Time"]
-},             
-"America/St_Vincent":{
-    "-4":["AST", "Atlantic Standard Time"]
-},               
-"America/Swift_Current":{
-    "-6":["CST", "Central Standard Time"]
-},            
-"America/Tegucigalpa":{
-    "-6":["CST", "Central Standard Time"]
-},              
-"America/Thule":{
-    "-4":["AST", "Atlantic Standard Time"],
-    "-3":["ADT", "Atlantic Daylight Time"]
-},                    
-"America/Thunder_Bay":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},              
-"America/Tijuana":{
-    "-8":["PST", "Pacific Standard Time"],
-    "-7":["PDT", "Pacific Daylight Time"]
-},                  
-"America/Toronto":{
-    "-5":["EST", "Eastern Standard Time"],
-    "-4":["EDT", "Eastern Daylight Time"]
-},                  
-"America/Tortola":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                  
-"America/Vancouver":{
-    "-8":["PST", "Pacific Standard Time"],
-    "-7":["PDT", "Pacific Daylight Time"]
-},                
-"America/Virgin":{
-    "-4":["AST", "Atlantic Standard Time"]
-},                   
-"America/Whitehorse":{
-    "-7":["MST", "Mountain Standard Time"]
-},               
-"America/Winnipeg":{
-    "-6":["CST", "Central Standard Time"],
-    "-5":["CDT", "Central Daylight Time"]
-},                 
-"America/Yakutat":{
-    "-9":["AKST", "Alaska Standard Time"],
-    "-8":["AKDT", "Alaska Daylight Time"]
-},                  
-"America/Yellowknife":{
-    "-7":["MST", "Mountain Standard Time"],
-    "-6":["MDT", "Mountain Daylight Time"]
-},              
-"Antarctica/Casey":{
-    "8":["+08", ""]
-},                 
-"Antarctica/Davis":{
-    "7":["+07", ""]
-},                 
-"Antarctica/DumontDUrville":{
-    "10":["+10", ""]
-},        
-"Antarctica/Macquarie":{
-    "11":["+11", ""]
-},             
-"Antarctica/Mawson":{
-    "5":["+05", ""]
-},                
-"Antarctica/McMurdo":{
-    "12":["NZST", "New Zealand Standard Time"],
-    "13":["NZDT", "New Zealand Daylight Time"]
-},               
-"Antarctica/Palmer":{
-    "-3":["-03", ""]
-},                
-"Antarctica/Rothera":{
-    "-3":["-03", ""]
-},               
-"Antarctica/South_Pole":{
-    "12":["NZST", "New Zealand Standard Time"],
-    "13":["NZDT", "New Zealand Daylight Time"]
-},            
-"Antarctica/Syowa":{
-    "3":["+03", ""]
-},                 
-"Antarctica/Troll":{
-    "0":["GMT", "Greenwich Mean Time"],
-    "2":["CET", "Central European Time"]
-},                 
-"Antarctica/Vostok":{
-    "5":["+05", ""]
-},                
-"Arctic/Longyearbyen":{
-    "1":["CET", "Central European Time"],
-    "2":["CEST", "Central European Summer Time"]
-},              
-"Asia/Aden":{
-    "3":["AST", "Arabia Standard Time"]
-},                        
-"Asia/Almaty":{
-    "6":["+06", "Kazakhstan Time"]
-},                      
-"Asia/Amman":{
-    "3":["EEST", "Eastern European Summer Time"]
-},                       
-"Asia/Anadyr":{
-    "12":["ANAT", "Anadyr Time"]
-},                      
-"Asia/Aqtau":{
-    "5":["ORAT", "Oral Time"]
-},                       
-"Asia/Aqtobe":{
-    "5":["AQTT", "Aktyubinsk Time"]
-},                      
-"Asia/Ashgabat":{
-    "5":["TMT", "Turkmenistan Time"]
-},                    
-"Asia/Ashkhabad":{
-    "5":["TMT", "Turkmenistan Time"]
-},                   
-"Asia/Baghdad":{
-    "3":["AST", "Arabia Standard Time"]
-},                     
-"Asia/Bahrain":{
-    "3":["AST", "Arabia Standard Time"]
-},                     
-"Asia/Baku":{
-    "4":["AZT", "Azerbaijan Time"]
-},                        
-"Asia/Bangkok":{
-    "7":["ICT", "Indochina Time"]
-},                     
-"Asia/Beirut":{
-    "2":["EET", "Eastern European Time"],
-    "3":["EEST", "Eastern European Summer Time"]
-},                      
-"Asia/Bishkek":{
-    "6":["KGT", "Kyrgyzstan Time"]
-},                     
-"Asia/Brunei":{
-    "8":["BNT", "Brunei Time"]
-},                      
-"Asia/Calcutta":{
-    "5.5":["IST", "Indian Standard Time"]
-},                    
-"Asia/Choibalsan":{
-    "8":["ULAT", "Ulaanbaatar Time"]
-},                  
-"Asia/Chongqing":{
-    "8":["CST", "China Standard Time"]
-},                   
-"Asia/Chungking":{
-    "8":["CST", "China Standard Time"]
-},                   
-"Asia/Colombo":{
-    "5.5":["IST", "Indian Standard Time"]
-},                     
-"Asia/Dacca":{
-    "6":["BST", "Bangladesh Standard Time"]
-},                       
-"Asia/Damascus":{
-    "2":["EET", "Eastern European Time"]
-},                    
-"Asia/Dhaka":{
-    "6":["BST", "Bangladesh Standard Time"]
-},                       
-"Asia/Dili":{
-    "9":["TLT", "Timor Leste Time"]
-},                        
-"Asia/Dubai":{
-    "4":["GST", "Gulf Standard Time"]
-},                       
-"Asia/Dushanbe":{
-    "5":["TJT", "Tajikistan Time"]
-},                    
-"Asia/Gaza":{
-    "2":["EET", "Eastern European Time"],
-    "3":["EEST", "Eastern European Summer Time"]
-},                        
-"Asia/Harbin":{
-    "8":["CST", "China Standard Time"]
-},                      
-"Asia/Hebron":{
-    "2":["EET", "Eastern European Time"],
-    "3":["EEST", "Eastern European Summer Time"]
-},                      
-"Asia/Ho_Chi_Minh":{
-    "7":["ICT", "Indochina Time"]
-},                 
-"Asia/Hong_Kong":{
-    "8":["HKT", "Hong Kong Time"]
-},                   
-"Asia/Hovd":{
-    "7":["HOVT", "Hovd Time"]
-},                        
-"Asia/Irkutsk":{
-    "8":["IRKT", "Irkutsk Time"]
-},                     
-"Asia/Istanbul":{
-    "3":["EET", "Eastern European Time"]
-},                    
-"Asia/Jakarta":{
-    "7":["WIB", "Western Indonesian Time"]
-},                     
-"Asia/Jayapura":{
-    "9":["WIT", "Eastern Indonesian Time"]
-},                    
-"Asia/Jerusalem":{
-    "2":["IST", "Israel Standard Time"],
-    "3":["IDT",  "Israel Daylight Time"]
-},                   
-"Asia/Kabul":{
-    "4.5":["AFT", "Afghanistan Time"]
-},                       
-"Asia/Kamchatka":{
-    "12":["PETT", "Kamchatka Time"]
-},                   
-"Asia/Karachi":{
-    "5":["PKT", "Pakistan Standard Time"]
-},                     
-"Asia/Kashgar":{
-    "6":["XJT", "Ürümqi Time"]
-},                     
-"Asia/Kathmandu":{
-    "5.75":["NPT", "Nepal Time"]
-},                   
-"Asia/Katmandu":{
-    "5.75":["NPT", "Nepal Time"]
-},                    
-"Asia/Khandyga":{
-    "9":["YAKT", "Yakutsk Time"]
-},                    
-"Asia/Kolkata":{
-    "5.5":["IST", "Indian Standard Time"]
-},                     
-"Asia/Krasnoyarsk":{
-    "7":["KRAT", "Krasnoyarsk Time"]
-},                 
-"Asia/Kuala_Lumpur":{
-    "8":["MYT", "Malaysia Time"]
-},                
-"Asia/Kuching":{
-    "8":["MYT", "Malaysia Time"]
-},                     
-"Asia/Kuwait":{
-    "3":["AST", "Arabia Standard Time"]
-},                      
-"Asia/Macao":{
-    "8":["CST", "China Standard Time"]
-},                       
-"Asia/Macau":{
-    "8":["CST", "China Standard Time"]
-},                       
-"Asia/Magadan":{
-    "11":["MAGT", "Magadan Time"]
-},                     
-"Asia/Makassar":{
-    "8":["WITA", "Central Indonesian Time"]
-},                    
-"Asia/Manila":{
-    "8":["PHT", "Philippine Standard Time"]
-},                      
-"Asia/Muscat":{
-    "4":["GST", "Gulf Standard Time"]
-},                      
-"Asia/Nicosia":{
-    "2":["EET", "Eastern European Time"],
-    "3":["EEST", "Eastern European Summer Time"]
-},                     
-"Asia/Novokuznetsk":{
-    "7":["KRAT", "Krasnoyarsk Time"]
-},                
-"Asia/Novosibirsk":{
-    "7":["NOVT", "Novosibirsk Time"]
-},                 
-"Asia/Omsk":{
-    "6":["OMST", "Omsk Time"]
-},                        
-"Asia/Oral":{
-    "5":["ORAT", "Oral Time"]
-},                        
-"Asia/Phnom_Penh":{
-    "7":["ICT", "Indochina Time"]
-},                  
-"Asia/Pontianak":{
-    "7":["WIB", "Western Indonesian Time"]
-},                   
-"Asia/Pyongyang":{
-    "9":["KST", "Korea Standard Time"]
-},                   
-"Asia/Qatar":{
-    "3":["AST", "Arabia Standard Time"]
-},    
-"Asia/Qostanay":{
-    "5":["KZT", "Kazhakstan Time"]
-},             
-"Asia/Qyzylorda":{
-    "5":["QYZT", "Qyzylorda Time"]
-},                   
-"Asia/Rangoon":{
-    "6.5":["MMT", "Myanmar Time"]
-},                     
-"Asia/Riyadh":{
-    "3":["AST", "Arabia Standard Time"]
-},                      
-"Asia/Saigon":{
-    "7":["ICT", "Indochina Time"]
-},                      
-"Asia/Sakhalin":{
-    "11":["SAKT", "Sakhalin Time"]
-},                    
-"Asia/Samarkand":{
-    "5":["UZT", "Uzbekistan Time"]
-},                   
-"Asia/Seoul":{
-    "9":["KST", "Korea Standard Time"]
-},                       
-"Asia/Shanghai":{
-    "8":["CST", "China Standard Time"]
-},                    
-"Asia/Singapore":{
-    "8":["SGT", "Singapore Time"]
-},                   
-"Asia/Taipei":{
-    "8":["CST", "China Standard Time"]
-},                      
-"Asia/Tashkent":{
-    "5":["UZT", "Uzbekistan Time"]
-},                    
-"Asia/Tbilisi":{
-    "4":["GET", "Georgia Time"]
-},                     
-"Asia/Tehran":{
-    "3.5":["IRST", "Iran Standard Time"]
-},                      
-"Asia/Tel_Aviv":{
-    "2":["IST","Israel Standard Time"],
-    "3":["IDT", "Israel Daylight Time"]
-},                    
-"Asia/Thimbu":{
-    "6":["BTT", "Bhutan Time"]
-},                      
-"Asia/Thimphu":{
-    "6":["BTT", "Bhutan Time"]
-},                     
-"Asia/Tokyo":{
-    "9":["JST", "Japan Standard Time"]
-},
-"Asia/Tomsk":{
-    "7":["KRAT", "Krasnoyarsk Time"]
-},
-"Asia/Ujung_Pandang":{
-    "8":["WITA", "Central Indonesian Time"]
-},               
-"Asia/Ulaanbaatar":{
-    "8":["ULAT", "Ulaanbaatar Time"]
-},                 
-"Asia/Ulan_Bator":{
-    "8":["ULAT", "Ulaanbaatar Time"]
-},                  
-"Asia/Urumqi":{
-    "6":["XJT", "Ürümqi Time"]
-},                      
-"Asia/Ust-Nera":{
-    "10":["VLAT", "Vladivostok Time"]
-},                    
-"Asia/Vientiane":{
-    "7":["ICT", "Indochina Time"]
-},                   
-"Asia/Vladivostok":{
-    "10":["VLAT", "Vladivostok Time"]
-},                 
-"Asia/Yakutsk":{
-    "9":["YAKT", "Yakutsk Time"]
-},
-"Asia/Yangon":{
-    "6.5":["MMT", "Myanmar Time"]
-},               
-"Asia/Yekaterinburg":{
-    "5":["YEKT", "Yekaterinburg Time"]
-},               
-
-"Asia/Yerevan":{
-    "4":["AMT", "Armenia Time"]
-},                     
-"Atlantic/Azores":{
-    "-1":["-01", ""],
-    "0":["GMT", "Greenwich Mean Time"]
-},                  
-"Atlantic/Bermuda":{
-    "-4":["AST", "Atlantic Standard Time"],
-    "-3":["ADT", "Atlantic Daylight Time"]
-},                 
-"Atlantic/Canary":{
-    "0":["WET", "Western European Time"],
-    "1":["WEST", "Western European Summer Time"]
-},                  
-"Atlantic/Cape_Verde":{
-    "-1":["-01", ""]
-},              
-"Atlantic/Faeroe":{
-    "":[]
-},                  
-"Atlantic/Faroe":{
-    "":[]
-},                   
-"Atlantic/Jan_Mayen":{
-    "":[]
-},               
-"Atlantic/Madeira":{
-    "":[]
-},                 
-"Atlantic/Reykjavik":{
-    "":[]
-},               
-"Atlantic/South_Georgia":{
-    "":[]
-},           
-"Atlantic/St_Helena":{
-    "":[]
-},               
-"Atlantic/Stanley":{
-    "":[]
-},                 
-"Australia/ACT":{
-    "":[]
-},                    
-"Australia/Adelaide":{
-    "":[]
-},               
-"Australia/Brisbane":{
-    "":[]
-},               
-"Australia/Broken_Hill":{
-    "":[]
-},            
-"Australia/Canberra":{
-    "":[]
-},               
-"Australia/Currie":{
-    "":[]
-},                 
-"Australia/Darwin":{
-    "":[]
-},                 
-"Australia/Eucla":{
-    "":[]
-},                  
-"Australia/Hobart":{
-    "":[]
-},                 
-"Australia/LHI":{
-    "":[]
-},                    
-"Australia/Lindeman":{
-    "":[]
-},               
-"Australia/Lord_Howe":{
-    "":[]
-},              
-"Australia/Melbourne":{
-    "":[]
-},              
-"Australia/North":{
-    "":[]
-},                  
-"Australia/NSW":{
-    "":[]
-},                    
-"Australia/Perth":{
-    "":[]
-},                  
-"Australia/Queensland":{
-    "":[]
-},             
-"Australia/South":{
-    "":[]
-},                  
-"Australia/Sydney":{
-    "":[]
-},                 
-"Australia/Tasmania":{
-    "":[]
-},               
-"Australia/Victoria":{
-    "":[]
-},               
-"Australia/West":{
-    "":[]
-},                   
-"Australia/Yancowinna":{
-    "":[]
-},             
-"Brazil/Acre":{
-    "":[]
-},                      
-"Brazil/DeNoronha":{
-    "":[]
-},                 
-"Brazil/East":{
-    "":[]
-},                      
-"Brazil/West":{
-    "":[]
-},                      
-"Canada/Atlantic":{
-    "":[]
-},                  
-"Canada/Central":{
-    "":[]
-},                   
-"Canada/Eastern":{
-    "":[]
-},                   
-"Canada/East-Saskatchewan":{
-    "":[]
-},         
-"Canada/Mountain":{
-    "":[]
-},                  
-"Canada/Newfoundland":{
-    "":[]
-},              
-"Canada/Pacific":{
-    "":[]
-},                   
-"Canada/Saskatchewan":{
-    "":[]
-},              
-"Canada/Yukon":{
-    "":[]
-},                     
-"Chile/Continental":{
-    "":[]
-},                
-"Chile/EasterIsland":{
-    "":[]
-},               
-"Cuba":{
-    "":[]
-},                             
-"Egypt":{
-    "":[]
-},                            
-"Eire":{
-    "":[]
-},                             
-"Etc/GMT":{
-    "":[]
-},                          
-"Etc/GMT+0":{
-    "":[]
-},                        
-"Etc/UCT":{
-    "":[]
-},                          
-"Etc/Universal":{
-    "":[]
-},                    
-"Etc/UTC":{
-    "":[]
-},                          
-"Etc/Zulu":{
-    "":[]
-},                         
-"Europe/Amsterdam":{
-    "":[]
-},                 
-"Europe/Andorra":{
-    "":[]
-},                   
-"Europe/Athens":{
-    "":[]
-},                    
-"Europe/Belfast":{
-    "":[]
-},                   
-"Europe/Belgrade":{
-    "":[]
-},                  
-"Europe/Berlin":{
-    "":[]
-},                    
-"Europe/Bratislava":{
-    "":[]
-},                
-"Europe/Brussels":{
-    "":[]
-},                  
-"Europe/Bucharest":{
-    "":[]
-},                 
-"Europe/Budapest":{
-    "":[]
-},                  
-"Europe/Busingen":{
-    "":[]
-},                  
-"Europe/Chisinau":{
-    "":[]
-},                  
-"Europe/Copenhagen":{
-    "":[]
-},                
-"Europe/Dublin":{
-    "":[]
-},                    
-"Europe/Gibraltar":{
-    "":[]
-},                 
-"Europe/Guernsey":{
-    "":[]
-},                  
-"Europe/Helsinki":{
-    "":[]
-},                  
-"Europe/Isle_of_Man":{
-    "":[]
-},               
-"Europe/Istanbul":{
-    "":[]
-},                  
-"Europe/Jersey":{
-    "":[]
-},                    
-"Europe/Kaliningrad":{
-    "":[]
-},               
-"Europe/Kiev":{
-    "":[]
-},                      
-"Europe/Lisbon":{
-    "":[]
-},                    
-"Europe/Ljubljana":{
-    "":[]
-},                 
-"Europe/London":{
-    "":[]
-},                    
-"Europe/Luxembourg":{
-    "":[]
-},                
-"Europe/Madrid":{
-    "":[]
-},                    
-"Europe/Malta":{
-    "":[]
-},                     
-"Europe/Mariehamn":{
-    "":[]
-},                 
-"Europe/Minsk":{
-    "":[]
-},                     
-"Europe/Monaco":{
-    "":[]
-},                    
-"Europe/Moscow":{
-    "":[]
-},                    
-"Europe/Nicosia":{
-    "":[]
-},                   
-"Europe/Oslo":{
-    "":[]
-},                      
-"Europe/Paris":{
-    "":[]
-},                     
-"Europe/Podgorica":{
-    "":[]
-},                 
-"Europe/Prague":{
-    "":[]
-},                    
-"Europe/Riga":{
-    "":[]
-},                      
-"Europe/Rome":{
-    "":[]
-},                      
-"Europe/Samara":{
-    "":[]
-},                    
-"Europe/San_Marino":{
-    "":[]
-},                
-"Europe/Sarajevo":{
-    "":[]
-},                  
-"Europe/Simferopol":{
-    "":[]
-},                
-"Europe/Skopje":{
-    "":[]
-},                    
-"Europe/Sofia":{
-    "":[]
-},                     
-"Europe/Stockholm":{
-    "":[]
-},                 
-"Europe/Tallinn":{
-    "":[]
-},                   
-"Europe/Tirane":{
-    "":[]
-},                    
-"Europe/Tiraspol":{
-    "":[]
-},                  
-"Europe/Uzhgorod":{
-    "":[]
-},                  
-"Europe/Vaduz":{
-    "":[]
-},                     
-"Europe/Vatican":{
-    "":[]
-},                   
-"Europe/Vienna":{
-    "":[]
-},                    
-"Europe/Vilnius":{
-    "":[]
-},                   
-"Europe/Volgograd":{
-    "":[]
-},                 
-"Europe/Warsaw":{
-    "":[]
-},                    
-"Europe/Zagreb":{
-    "":[]
-},                    
-"Europe/Zaporozhye":{
-    "":[]
-},                
-"Europe/Zurich":{
-    "":[]
-},                    
-"GB":{
-    "":[]
-},                               
-"GB-Eire":{
-    "":[]
-},                          
-"GMT":{
-    "":[]
-},                              
-"GMT+0":{
-    "":[]
-},                            
-"GMT0":{
-    "":[]
-},                             
-"GMT-0":{
-    "":[]
-},                            
-"Greenwich":{
-    "":[]
-},                        
-"Hongkong":{
-    "":[]
-},                         
-"Iceland":{
-    "":[]
-},                          
-"Indian/Antananarivo":{
-    "":[]
-},              
-"Indian/Chagos":{
-    "":[]
-},                    
-"Indian/Christmas":{
-    "":[]
-},                 
-"Indian/Cocos":{
-    "":[]
-},                     
-"Indian/Comoro":{
-    "":[]
-},                    
-"Indian/Kerguelen":{
-    "":[]
-},                 
-"Indian/Mahe":{
-    "":[]
-},                      
-"Indian/Maldives":{
-    "":[]
-},                  
-"Indian/Mauritius":{
-    "":[]
-},                 
-"Indian/Mayotte":{
-    "":[]
-},                   
-"Indian/Reunion":{
-    "":[]
-},                   
-"Iran":{
-    "":[]
-},                             
-"Israel":{
-    "":[]
-},                           
-"Jamaica":{
-    "":[]
-},                          
-"Japan":{
-    "":[]
-},                            
-"Kwajalein":{
-    "":[]
-},                        
-"Libya":{
-    "":[]
-},                            
-"Mexico/BajaNorte":{
-    "":[]
-},                 
-"Mexico/BajaSur":{
-    "":[]
-},                   
-"Mexico/General":{
-    "":[]
-},                   
-"Navajo":{
-    "":[]
-},                           
-"NZ":{
-    "":[]
-},                               
-"NZ-CHAT":{
-    "":[]
-},                          
-"Pacific/Apia":{
-    "":[]
-},                     
-"Pacific/Auckland":{
-    "":[]
-},                 
-"Pacific/Chatham":{
-    "":[]
-},                  
-"Pacific/Chuuk":{
-    "":[]
-},                    
-"Pacific/Easter":{
-    "":[]
-},                   
-"Pacific/Efate":{
-    "":[]
-},                    
-"Pacific/Enderbury":{
-    "":[]
-},                
-"Pacific/Fakaofo":{
-    "":[]
-},                  
-"Pacific/Fiji":{
-    "":[]
-},                     
-"Pacific/Funafuti":{
-    "":[]
-},                 
-"Pacific/Galapagos":{
-    "":[]
-},                
-"Pacific/Gambier":{
-    "":[]
-},                  
-"Pacific/Guadalcanal":{
-    "":[]
-},              
-"Pacific/Guam":{
-    "":[]
-},                     
-"Pacific/Honolulu":{
-    "":[]
-},                 
-"Pacific/Johnston":{
-    "":[]
-},                 
-"Pacific/Kiritimati":{
-    "":[]
-},               
-"Pacific/Kosrae":{
-    "":[]
-},                   
-"Pacific/Kwajalein":{
-    "":[]
-},                
-"Pacific/Majuro":{
-    "":[]
-},                   
-"Pacific/Marquesas":{
-    "":[]
-},                
-"Pacific/Midway":{
-    "":[]
-},                   
-"Pacific/Nauru":{
-    "":[]
-},                    
-"Pacific/Niue":{
-    "":[]
-},                     
-"Pacific/Norfolk":{
-    "":[]
-},                  
-"Pacific/Noumea":{
-    "":[]
-},                   
-"Pacific/Pago_Pago":{
-    "":[]
-},                
-"Pacific/Palau":{
-    "":[]
-},                    
-"Pacific/Pitcairn":{
-    "":[]
-},                 
-"Pacific/Pohnpei":{
-    "":[]
-},                  
-"Pacific/Ponape":{
-    "":[]
-},                   
-"Pacific/Port_Moresby":{
-    "":[]
-},             
-"Pacific/Rarotonga":{
-    "":[]
-},                
-"Pacific/Saipan":{
-    "":[]
-},                   
-"Pacific/Samoa":{
-    "":[]
-},                    
-"Pacific/Tahiti":{
-    "":[]
-},                   
-"Pacific/Tarawa":{
-    "":[]
-},                   
-"Pacific/Tongatapu":{
-    "":[]
-},                
-"Pacific/Truk":{
-    "":[]
-},                     
-"Pacific/Wake":{
-    "":[]
-},                     
-"Pacific/Wallis":{
-    "":[]
-},                   
-"Pacific/Yap":{
-    "":[]
-},                      
-"Poland":{
-    "":[]
-},                           
-"Portugal":{
-    "":[]
-},                         
-"PRC":{
-    "":[]
-},                              
-"ROC":{
-    "":[]
-},                              
-"ROK":{
-    "":[]
-},                              
-"Singapore":{
-    "":[]
-},                        
-"Turkey":{
-    "":[]
-},                           
-"UCT":{
-    "":[]
-},                              
-"Universal":{
-    "":[]
-},                        
-"US/Alaska":{
-    "":[]
-},                        
-"US/Aleutian":{
-    "":[]
-},                      
-"US/Arizona":{
-    "":[]
-},                       
-"US/Central":{
-    "":[]
-},                       
-"US/Eastern":{
-    "":[]
-},                       
-"US/East-Indiana":{
-    "":[]
-},                  
-"US/Hawaii":{
-    "":[]
-},                        
-"US/Indiana-Starke":{
-    "":[]
-},                
-"US/Michigan":{
-    "":[]
-},                      
-"US/Mountain":{
-    "":[]
-},                      
-"US/Pacific":{
-    "":[]
-},                       
-"US/Samoa":{
-    "":[]
-},                         
-"UTC":{
-    "":[]
-},                              
-"W-SU":{
-    "":[]
-},                             
-"Zulu":{
-    "":[]
-}                   
+    "Africa/Abidjan":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },
+    "Africa/Accra":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },
+    "Africa/Addis_Ababa":{
+        "0":["EAT", "East Africa Time"]
+    },
+    "Africa/Algiers":{
+        "1":["CET", "Central European Time"]
+    },                   
+    "Africa/Asmara":{
+      "3":["EAT", "East Africa Time"]  
+    },                    
+    "Africa/Asmera":{
+        "3":["EAT", "East Africa Time"]
+    },                    
+    "Africa/Bamako":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                    
+    "Africa/Bangui":{
+        "1":["WAT", "West Africa Time"]
+    },                    
+    "Africa/Banjul":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                    
+    "Africa/Blantyre":{
+        "2":["CAT", "Central Africa Time"]
+    },                  
+    "Africa/Brazzaville":{
+        "1":["WAT", "West Africa Time"]
+    },               
+    "Africa/Bujumbura":{
+        "2":["CAT", "Central Africa Time"]
+    },                 
+    "Africa/Cairo":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                     
+    "Africa/Casablanca":{
+        "0":["+00", ""],
+        "1":["+01", ""]
+    },                
+    "Africa/Ceuta":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                     
+    "Africa/Conakry":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                   
+    "Africa/Dakar":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                     
+    "Africa/Dar_es_Salaam":{
+        "3":["EAT", "East Africa Time"]
+    },             
+    "Africa/Djibouti":{
+        "3":["EAT", "East Africa Time"]
+    },                  
+    "Africa/Douala":{
+        "1":["WAT", "West Africa Time"] 
+    },                    
+    "Africa/El_Aaiun":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },                  
+    "Africa/Freetown":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                  
+    "Africa/Gaborone":{
+        "2":["CAT", "Central Africa Time"]
+    },                  
+    "Africa/Harare":{
+        "2":["CAT", "Central Africa Time"]
+    },                    
+    "Africa/Johannesburg":{
+        "2":["SAST", "South Africa Standard Time"]
+    },              
+    "Africa/Juba":{
+        "2":["CAT", "Central Africa Time"]
+    },                      
+    "Africa/Kampala":{
+        "3":["EAT", "East Africa Time"]
+    },                   
+    "Africa/Khartoum":{
+        "2":["CAT", "Central Africa Time"]
+    },                  
+    "Africa/Kigali":{
+        "2":["CAT", "Central Africa Time"]
+    },                    
+    "Africa/Kinshasa":{
+        "1":["WAT", "West Africa Time"]
+    },                  
+    "Africa/Lagos":{
+        "1":["WAT", "West Africa Time"]
+    },                     
+    "Africa/Libreville":{
+        "1":["WAT", "West Africa Time"]
+    },                
+    "Africa/Lome":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                      
+    "Africa/Luanda":{
+        "1":["WAT", "West Africa Time"]
+    },                    
+    "Africa/Lubumbashi":{
+        "2":["CAT", "Central Africa Time"]
+    },                
+    "Africa/Lusaka":{
+        "2":["CAT", "Central Africa Time"]
+    },                    
+    "Africa/Malabo":{
+        "1":["WAT", "West Africa Time"]
+    },                    
+    "Africa/Maputo":{
+        "2":["CAT", "Central Africa Time"]
+    },                    
+    "Africa/Maseru":{
+        "2":["SAST", "South Africa Standard Time"]
+    },                    
+    "Africa/Mbabane":{
+        "2":["SAST", "South Africa Standard Time"]
+    },                   
+    "Africa/Mogadishu":{
+        "3":["EAT", "East Africa Time"]
+    },                 
+    "Africa/Monrovia":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                  
+    "Africa/Nairobi":{
+        "3":["EAT", "East Africa Time"]
+    },                   
+    "Africa/Ndjamena":{
+        "1":["WAT", "West Africa Time"]
+    },                  
+    "Africa/Niamey":{
+        "1":["WAT", "West Africa Time"]
+    },                    
+    "Africa/Nouakchott":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },              
+    "Africa/Ouagadougou":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },               
+    "Africa/Porto-Novo":{
+        "1":["WAT", "West Africa Time"]
+    },                
+    "Africa/Sao_Tome":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                  
+    "Africa/Timbuktu":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                  
+    "Africa/Tripoli":{
+        "2":["EET", "Eastern European Time"]
+    },                   
+    "Africa/Tunis":{
+        "1":["CET", "Central European Time"]
+    },                     
+    "Africa/Windhoek":{
+        "2":["CAT", "Central Africa Time"]
+    },                  
+    "America/Adak":{
+        "-10":["HST", "Hawaii-Aleutian Standard Time"],
+        "-9":["HDT", "Hawaii-Aleutian Daylight Time"]
+    },                     
+    "America/Anchorage":{
+        "-9":["AKST", "Alaska Standard Time"],
+        "-8":["AKDT", "Alaska Daylight Time"]
+    },                
+    "America/Anguilla":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                 
+    "America/Antigua":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                  
+    "America/Araguaina":{
+        "-3":["-03", ""]
+    },                
+    "America/Argentina/Buenos_Aires":{
+        "-3":["-03", ""]
+    },   
+    "America/Argentina/Catamarca":{
+        "-3":["-03", ""]
+    },      
+    "America/Argentina/ComodRivadavia":{
+        "-3":["-03", ""]
+    }, 
+    "America/Argentina/Cordoba":{
+        "-3":["-03", ""]
+    },        
+    "America/Argentina/Jujuy":{
+        "-3":["-03", ""]
+    },          
+    "America/Argentina/La_Rioja":{
+        "-3":["-03", ""]
+    },       
+    "America/Argentina/Mendoza":{
+        "-3":["-03", ""]
+    },        
+    "America/Argentina/Rio_Gallegos":{
+        "-3":["-03", ""]
+    },   
+    "America/Argentina/Salta":{
+        "-3":["-03", ""]
+    },          
+    "America/Argentina/San_Juan":{
+        "-3":["-03", ""]
+    },       
+    "America/Argentina/San_Luis":{
+        "-3":["-03", ""]
+    },       
+    "America/Argentina/Tucuman":{
+        "-3":["-03", ""]
+    },        
+    "America/Argentina/Ushuaia":{
+        "-3":["-03", ""]
+    },        
+    "America/Aruba":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                    
+    "America/Asuncion":{
+        "-3":["-03", ""]
+    },                 
+    "America/Atikokan":{
+        "-5":["EST", "Eastern Standard Time"]
+    },                 
+    "America/Atka":{
+        "-10":["HST", "Hawaii-Aleutian Standard Time"],
+        "-9":["HDT", "Hawaii-Aleutian Daylight Time"]
+    },                     
+    "America/Bahia":{
+        "-3":["-03", ""]
+    },                    
+    "America/Bahia_Banderas":{
+        "-6":["CST", "Central Standard Time"]
+    },           
+    "America/Barbados":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                 
+    "America/Belem":{
+        "-3":["-03", ""]
+    },                    
+    "America/Belize":{
+        "-6":["CST", "Central Standard Time"]
+    },                   
+    "America/Blanc-Sablon":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },             
+    "America/Boa_Vista":{
+        "-4":["-04", ""]
+    },                
+    "America/Bogota":{
+        "-5":["COT", "Colombia Time"]
+    },                   
+    "America/Boise":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },                    
+    "America/Buenos_Aires":{
+        "-3":["ART", "Argentina Time"]
+    },             
+    "America/Cambridge_Bay":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },            
+    "America/Campo_Grande":{
+        "-4":["-04", ""]
+    },             
+    "America/Cancun":{
+        "-5":["EST", "Eastern Standard Time"]
+    },                   
+    "America/Caracas":{
+        "-4":["VET", "Venezuelan Standard Time"]
+    },                  
+    "America/Catamarca":{
+        "-3":["-03", ""]
+    },                
+    "America/Cayenne":{
+        "-3":["-03", ""]
+    },                  
+    "America/Cayman":{
+        "-5":["EST", "Eastern Standard Time"]
+    },                   
+    "America/Chicago":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                  
+    "America/Chihuahua":{
+        "-6":["CST", "Central Standard Time"]
+    },       
+    "America/Ciudad_Juarez":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },     
+    "America/Coral_Harbour":{
+        "-5":["EST", "Eastern Standard Time"]
+    },            
+    "America/Cordoba":{
+        "-3":["-03", ""]
+    },                  
+    "America/Costa_Rica":{
+        "-6":["CST", "Central Standard Time"]
+    },               
+    "America/Coyhaique":{
+        "-3":["-03", ""]   
+    },
+    "America/Creston":{
+        "-7":["MST", "Mountain Standard Time"]
+    },                  
+    "America/Cuiaba":{
+        "-4":["-04", ""]
+    },                   
+    "America/Curacao":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                  
+    "America/Danmarkshavn":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },             
+    "America/Dawson":{
+        "-7":["MST", "Mountain Standard Time"]
+    },                   
+    "America/Dawson_Creek":{
+        "-7":["MST", "Mountain Standard Time"]
+    },             
+    "America/Denver":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },                   
+    "America/Detroit":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                  
+    "America/Dominica":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                 
+    "America/Edmonton":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },                 
+    "America/Eirunepe":{
+        "-5":["-05", ""]
+    },                 
+    "America/El_Salvador":{
+        "-6":["CST", "Central Standard Time"]
+    },              
+    "America/Ensenada":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },                 
+    "America/Fort_Nelson":{
+        "-7":["MST", "Mountain Standard Time"]
+    },
+    "America/Fort_Wayne":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },               
+    "America/Fortaleza":{
+        "-3":["-03", ""]
+    },                
+    "America/Glace_Bay":{
+        "-4":["AST", "Atlantic Standard Time"],
+        "-3":["ADT", "Atlantic Daylight Time"]
+    },                
+    "America/Godthab":{
+        "-2":["-02", ""],
+        "-1":["-01", ""]
+    },                  
+    "America/Goose_Bay":{
+        "-4":["AST", "Atlantic Standard Time"],
+        "-3":["ADT", "Atlantic Daylight Time"]
+    },                
+    "America/Grand_Turk":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },               
+    "America/Grenada":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                  
+    "America/Guadeloupe":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },               
+    "America/Guatemala":{
+        "-6":["CST", "Central Standard Time"]
+    },                
+    "America/Guayaquil":{
+        "-5":["ECT", "Ecuador Time"]
+    },                
+    "America/Guyana":{
+        "-4":["GYT", "Guyana Time"]
+    },                   
+    "America/Halifax":{
+        "-4":["AST", "Atlantic Standard Time"],
+        "-3":["ADT", "Atlantic Daylight Time"]
+    },                  
+    "America/Havana":{
+        "-5":["CST", "Cuba Standard Time"],
+        "-4":["CDT", "Cuba Daylight Time"]
+    },                   
+    "America/Hermosillo":{
+        "-7":["MST", "Mountain Standard Time"]
+    },               
+    "America/Indiana/Indianapolis":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },     
+    "America/Indiana/Knox":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },             
+    "America/Indiana/Marengo":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },          
+    "America/Indiana/Petersburg":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },       
+    "America/Indiana/Tell_City":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },        
+    "America/Indiana/Valparaiso":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },       
+    "America/Indiana/Vevay":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },            
+    "America/Indiana/Vincennes":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },        
+    "America/Indiana/Winamac":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },          
+    "America/Indianapolis":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },             
+    "America/Inuvik":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },                   
+    "America/Iqaluit":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                  
+    "America/Jamaica":{
+        "-5":["EST", "Eastern Standard Time"]
+    },                  
+    "America/Jujuy":{
+        "-3":["-03", ""]
+    },                    
+    "America/Juneau":{
+        "-9":["AKST", "Alaska Standard Time"],
+        "-8":["AKDT", "Alaska Daylight Time"]
+    },                   
+    "America/Kentucky/Louisville":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },      
+    "America/Kentucky/Monticello":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },      
+    "America/Knox_IN":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                  
+    "America/Kralendijk":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },               
+    "America/La_Paz":{
+        "-4":["-04", ""]
+    },                   
+    "America/Lima":{
+        "-5":["PET", "Peru Time"]
+    },                     
+    "America/Los_Angeles":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },              
+    "America/Louisville":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },               
+    "America/Lower_Princes":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },            
+    "America/Maceio":{
+        "-3":["-03", ""]
+    },                   
+    "America/Managua":{
+        "-6":["CST", "Central Standard Time"]
+    },                  
+    "America/Manaus":{
+        "-4":["-04", ""]
+    },                   
+    "America/Marigot":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                  
+    "America/Martinique":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },               
+    "America/Matamoros":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                
+    "America/Mazatlan":{
+        "-7":["MST", "Mountain Standard Time"]
+    },                 
+    "America/Mendoza":{
+        "-3":["-03", ""]
+    },                  
+    "America/Menominee":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                
+    "America/Merida":{
+        "-6":["CST", "Central Standard Time"]
+    },                   
+    "America/Metlakatla":{
+        "-9":["AKST", "Alaska Standard Time"],
+        "-8":["AKDT", "Alaska Daylight Time"]
+    },               
+    "America/Mexico_City":{
+        "-6":["CST", "Central Standard Time"]
+    },              
+    "America/Miquelon":{
+        "-3":["-03", ""],
+        "-2":["-02", ""]
+    },                 
+    "America/Moncton":{
+        "-4":["AST", "Atlantic Standard Time"],
+        "-3":["ADT", "Atlantic Daylight Time"]
+    },                  
+    "America/Monterrey":{
+        "-6":["CST", "Central Standard Time"]
+    },                
+    "America/Montevideo":{
+        "-3":["-03", ""]
+    },               
+    "America/Montreal":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                 
+    "America/Montserrat":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },               
+    "America/Nassau":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                   
+    "America/New_York":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                 
+    "America/Nipigon":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                  
+    "America/Nome":{
+        "-9":["AKST", "Alaska Standard Time"],
+        "-8":["AKDT", "Alaska Daylight Time"]
+    },                     
+    "America/Noronha":{
+        "-2":["-02", ""]
+    },                  
+    "America/North_Dakota/Beulah":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },      
+    "America/North_Dakota/Center":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },      
+    "America/North_Dakota/New_Salem":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },   
+    "America/Nuuk":{
+        "-2":["-02", ""],
+        "-1":["-01", ""]
+    },
+    "America/Ojinaga":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                  
+    "America/Panama":{
+        "-5":["EST", "Eastern Standard Time"]
+    },                   
+    "America/Pangnirtung":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },              
+    "America/Paramaribo":{
+        "-3":["-03", ""]
+    },               
+    "America/Phoenix":{
+        "-7":["MST", "Mountain Standard Time"]
+    },                  
+    "America/Port-au-Prince":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },
+    "America/Port_of_Spain":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },               
+    "America/Porto_Acre":{
+        "-5":["-05", ""]
+    },               
+    "America/Porto_Velho":{
+        "-4":["-04", ""]
+    },              
+    "America/Puerto_Rico":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },              
+    "America/Punta_Arenas":{
+        "-3":["-03", ""]
+    },
+    "America/Rainy_River":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },              
+    "America/Rankin_Inlet":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },             
+    "America/Recife":{
+        "-3":["-03", ""]
+    },                   
+    "America/Regina":{
+        "-6":["CST", "Central Standard Time"]
+    },                   
+    "America/Resolute":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                 
+    "America/Rio_Branco":{
+        "-5":["-05", ""]
+    },               
+    "America/Rosario":{
+        "-3":["-03", ""]
+    },                  
+    "America/Santa_Isabel":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },             
+    "America/Santarem":{
+        "-3":["-03", ""]
+    },                 
+    "America/Santiago":{
+        "-4":["-04", ""],
+        "-3":["-03", ""]
+    },                 
+    "America/Santo_Domingo":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },            
+    "America/Sao_Paulo":{
+        "-3":["-03", ""]
+    },                
+    "America/Scoresbysund":{
+        "-2":["-02", ""],
+        "-1":["-01", ""]
+    },             
+    "America/Shiprock":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },                 
+    "America/Sitka":{
+        "-9":["AKST", "Alaska Standard Time"],
+        "-8":["AKDT", "Alaska Daylight Time"]
+    },                    
+    "America/St_Barthelemy":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },            
+    "America/St_Johns":{
+        "-3.5":["NST", "Newfoundland Standard Time"],
+        "-2.5":["NDT", "Newfoundland Daylight Time"]
+    },                 
+    "America/St_Kitts":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                 
+    "America/St_Lucia":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                 
+    "America/St_Thomas":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },             
+    "America/St_Vincent":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },               
+    "America/Swift_Current":{
+        "-6":["CST", "Central Standard Time"]
+    },            
+    "America/Tegucigalpa":{
+        "-6":["CST", "Central Standard Time"]
+    },              
+    "America/Thule":{
+        "-4":["AST", "Atlantic Standard Time"],
+        "-3":["ADT", "Atlantic Daylight Time"]
+    },                    
+    "America/Thunder_Bay":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },              
+    "America/Tijuana":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },                  
+    "America/Toronto":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                  
+    "America/Tortola":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                  
+    "America/Vancouver":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },                
+    "America/Virgin":{
+        "-4":["AST", "Atlantic Standard Time"]
+    },                   
+    "America/Whitehorse":{
+        "-7":["MST", "Mountain Standard Time"]
+    },               
+    "America/Winnipeg":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                 
+    "America/Yakutat":{
+        "-9":["AKST", "Alaska Standard Time"],
+        "-8":["AKDT", "Alaska Daylight Time"]
+    },                  
+    "America/Yellowknife":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },              
+    "Antarctica/Casey":{
+        "8":["+08", ""]
+    },                 
+    "Antarctica/Davis":{
+        "7":["+07", ""]
+    },                 
+    "Antarctica/DumontDUrville":{
+        "10":["+10", ""]
+    },        
+    "Antarctica/Macquarie":{
+        "11":["+11", ""]
+    },             
+    "Antarctica/Mawson":{
+        "5":["+05", ""]
+    },                
+    "Antarctica/McMurdo":{
+        "12":["NZST", "New Zealand Standard Time"],
+        "13":["NZDT", "New Zealand Daylight Time"]
+    },               
+    "Antarctica/Palmer":{
+        "-3":["-03", ""]
+    },                
+    "Antarctica/Rothera":{
+        "-3":["-03", ""]
+    },               
+    "Antarctica/South_Pole":{
+        "12":["NZST", "New Zealand Standard Time"],
+        "13":["NZDT", "New Zealand Daylight Time"]
+    },            
+    "Antarctica/Syowa":{
+        "3":["+03", ""]
+    },                 
+    "Antarctica/Troll":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "2":["CET", "Central European Time"]
+    },                 
+    "Antarctica/Vostok":{
+        "5":["+05", ""]
+    },                
+    "Arctic/Longyearbyen":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },              
+    "Asia/Aden":{
+        "3":["AST", "Arabia Standard Time"]
+    },                        
+    "Asia/Almaty":{
+        "6":["+06", "Kazakhstan Time"]
+    },                      
+    "Asia/Amman":{
+        "3":["EEST", "Eastern European Summer Time"]
+    },                       
+    "Asia/Anadyr":{
+        "12":["ANAT", "Anadyr Time"]
+    },                      
+    "Asia/Aqtau":{
+        "5":["ORAT", "Oral Time"]
+    },                       
+    "Asia/Aqtobe":{
+        "5":["AQTT", "Aktyubinsk Time"]
+    },                      
+    "Asia/Ashgabat":{
+        "5":["TMT", "Turkmenistan Time"]
+    },                    
+    "Asia/Ashkhabad":{
+        "5":["TMT", "Turkmenistan Time"]
+    },                   
+    "Asia/Baghdad":{
+        "3":["AST", "Arabia Standard Time"]
+    },                     
+    "Asia/Bahrain":{
+        "3":["AST", "Arabia Standard Time"]
+    },                     
+    "Asia/Baku":{
+        "4":["AZT", "Azerbaijan Time"]
+    },                        
+    "Asia/Bangkok":{
+        "7":["ICT", "Indochina Time"]
+    },                     
+    "Asia/Beirut":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                      
+    "Asia/Bishkek":{
+        "6":["KGT", "Kyrgyzstan Time"]
+    },                     
+    "Asia/Brunei":{
+        "8":["BNT", "Brunei Time"]
+    },                      
+    "Asia/Calcutta":{
+        "5.5":["IST", "Indian Standard Time"]
+    },                    
+    "Asia/Choibalsan":{
+        "8":["ULAT", "Ulaanbaatar Time"]
+    },                  
+    "Asia/Chongqing":{
+        "8":["CST", "China Standard Time"]
+    },                   
+    "Asia/Chungking":{
+        "8":["CST", "China Standard Time"]
+    },                   
+    "Asia/Colombo":{
+        "5.5":["IST", "Indian Standard Time"]
+    },                     
+    "Asia/Dacca":{
+        "6":["BST", "Bangladesh Standard Time"]
+    },                       
+    "Asia/Damascus":{
+        "2":["EET", "Eastern European Time"]
+    },                    
+    "Asia/Dhaka":{
+        "6":["BST", "Bangladesh Standard Time"]
+    },                       
+    "Asia/Dili":{
+        "9":["TLT", "Timor Leste Time"]
+    },                        
+    "Asia/Dubai":{
+        "4":["GST", "Gulf Standard Time"]
+    },                       
+    "Asia/Dushanbe":{
+        "5":["TJT", "Tajikistan Time"]
+    },                    
+    "Asia/Gaza":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                        
+    "Asia/Harbin":{
+        "8":["CST", "China Standard Time"]
+    },                      
+    "Asia/Hebron":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                      
+    "Asia/Ho_Chi_Minh":{
+        "7":["ICT", "Indochina Time"]
+    },                 
+    "Asia/Hong_Kong":{
+        "8":["HKT", "Hong Kong Time"]
+    },                   
+    "Asia/Hovd":{
+        "7":["HOVT", "Hovd Time"]
+    },                        
+    "Asia/Irkutsk":{
+        "8":["IRKT", "Irkutsk Time"]
+    },                     
+    "Asia/Istanbul":{
+        "3":["EET", "Eastern European Time"]
+    },                    
+    "Asia/Jakarta":{
+        "7":["WIB", "Western Indonesian Time"]
+    },                     
+    "Asia/Jayapura":{
+        "9":["WIT", "Eastern Indonesian Time"]
+    },                    
+    "Asia/Jerusalem":{
+        "2":["IST", "Israel Standard Time"],
+        "3":["IDT",  "Israel Daylight Time"]
+    },                   
+    "Asia/Kabul":{
+        "4.5":["AFT", "Afghanistan Time"]
+    },                       
+    "Asia/Kamchatka":{
+        "12":["PETT", "Kamchatka Time"]
+    },                   
+    "Asia/Karachi":{
+        "5":["PKT", "Pakistan Standard Time"]
+    },                     
+    "Asia/Kashgar":{
+        "6":["XJT", "Ürümqi Time"]
+    },                     
+    "Asia/Kathmandu":{
+        "5.75":["NPT", "Nepal Time"]
+    },                   
+    "Asia/Katmandu":{
+        "5.75":["NPT", "Nepal Time"]
+    },                    
+    "Asia/Khandyga":{
+        "9":["YAKT", "Yakutsk Time"]
+    },                    
+    "Asia/Kolkata":{
+        "5.5":["IST", "Indian Standard Time"]
+    },                     
+    "Asia/Krasnoyarsk":{
+        "7":["KRAT", "Krasnoyarsk Time"]
+    },                 
+    "Asia/Kuala_Lumpur":{
+        "8":["MYT", "Malaysia Time"]
+    },                
+    "Asia/Kuching":{
+        "8":["MYT", "Malaysia Time"]
+    },                     
+    "Asia/Kuwait":{
+        "3":["AST", "Arabia Standard Time"]
+    },                      
+    "Asia/Macao":{
+        "8":["CST", "China Standard Time"]
+    },                       
+    "Asia/Macau":{
+        "8":["CST", "China Standard Time"]
+    },                       
+    "Asia/Magadan":{
+        "11":["MAGT", "Magadan Time"]
+    },                     
+    "Asia/Makassar":{
+        "8":["WITA", "Central Indonesian Time"]
+    },                    
+    "Asia/Manila":{
+        "8":["PHT", "Philippine Standard Time"]
+    },                      
+    "Asia/Muscat":{
+        "4":["GST", "Gulf Standard Time"]
+    },                      
+    "Asia/Nicosia":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                     
+    "Asia/Novokuznetsk":{
+        "7":["KRAT", "Krasnoyarsk Time"]
+    },                
+    "Asia/Novosibirsk":{
+        "7":["NOVT", "Novosibirsk Time"]
+    },                 
+    "Asia/Omsk":{
+        "6":["OMST", "Omsk Time"]
+    },                        
+    "Asia/Oral":{
+        "5":["ORAT", "Oral Time"]
+    },                        
+    "Asia/Phnom_Penh":{
+        "7":["ICT", "Indochina Time"]
+    },                  
+    "Asia/Pontianak":{
+        "7":["WIB", "Western Indonesian Time"]
+    },                   
+    "Asia/Pyongyang":{
+        "9":["KST", "Korea Standard Time"]
+    },                   
+    "Asia/Qatar":{
+        "3":["AST", "Arabia Standard Time"]
+    },    
+    "Asia/Qostanay":{
+        "5":["KZT", "Kazhakstan Time"]
+    },             
+    "Asia/Qyzylorda":{
+        "5":["QYZT", "Qyzylorda Time"]
+    },                   
+    "Asia/Rangoon":{
+        "6.5":["MMT", "Myanmar Time"]
+    },                     
+    "Asia/Riyadh":{
+        "3":["AST", "Arabia Standard Time"]
+    },                      
+    "Asia/Saigon":{
+        "7":["ICT", "Indochina Time"]
+    },                      
+    "Asia/Sakhalin":{
+        "11":["SAKT", "Sakhalin Time"]
+    },                    
+    "Asia/Samarkand":{
+        "5":["UZT", "Uzbekistan Time"]
+    },                   
+    "Asia/Seoul":{
+        "9":["KST", "Korea Standard Time"]
+    },                       
+    "Asia/Shanghai":{
+        "8":["CST", "China Standard Time"]
+    },                    
+    "Asia/Singapore":{
+        "8":["SGT", "Singapore Time"]
+    },                   
+    "Asia/Taipei":{
+        "8":["CST", "China Standard Time"]
+    },                      
+    "Asia/Tashkent":{
+        "5":["UZT", "Uzbekistan Time"]
+    },                    
+    "Asia/Tbilisi":{
+        "4":["GET", "Georgia Time"]
+    },                     
+    "Asia/Tehran":{
+        "3.5":["IRST", "Iran Standard Time"]
+    },                      
+    "Asia/Tel_Aviv":{
+        "2":["IST","Israel Standard Time"],
+        "3":["IDT", "Israel Daylight Time"]
+    },                    
+    "Asia/Thimbu":{
+        "6":["BTT", "Bhutan Time"]
+    },                      
+    "Asia/Thimphu":{
+        "6":["BTT", "Bhutan Time"]
+    },                     
+    "Asia/Tokyo":{
+        "9":["JST", "Japan Standard Time"]
+    },
+    "Asia/Tomsk":{
+        "7":["KRAT", "Krasnoyarsk Time"]
+    },
+    "Asia/Ujung_Pandang":{
+        "8":["WITA", "Central Indonesian Time"]
+    },               
+    "Asia/Ulaanbaatar":{
+        "8":["ULAT", "Ulaanbaatar Time"]
+    },                 
+    "Asia/Ulan_Bator":{
+        "8":["ULAT", "Ulaanbaatar Time"]
+    },                  
+    "Asia/Urumqi":{
+        "6":["XJT", "Ürümqi Time"]
+    },                      
+    "Asia/Ust-Nera":{
+        "10":["VLAT", "Vladivostok Time"]
+    },                    
+    "Asia/Vientiane":{
+        "7":["ICT", "Indochina Time"]
+    },                   
+    "Asia/Vladivostok":{
+        "10":["VLAT", "Vladivostok Time"]
+    },                 
+    "Asia/Yakutsk":{
+        "9":["YAKT", "Yakutsk Time"]
+    },
+    "Asia/Yangon":{
+        "6.5":["MMT", "Myanmar Time"]
+    },               
+    "Asia/Yekaterinburg":{
+        "5":["YEKT", "Yekaterinburg Time"]
+    },               
+    
+    "Asia/Yerevan":{
+        "4":["AMT", "Armenia Time"]
+    },                     
+    "Atlantic/Azores":{
+        "-1":["-01", ""],
+        "0":["GMT", "Greenwich Mean Time"]
+    },                  
+    "Atlantic/Bermuda":{
+        "-4":["AST", "Atlantic Standard Time"],
+        "-3":["ADT", "Atlantic Daylight Time"]
+    },                 
+    "Atlantic/Canary":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },                  
+    "Atlantic/Cape_Verde":{
+        "-1":["-01", ""]
+    },              
+    "Atlantic/Faeroe":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },                  
+    "Atlantic/Faroe":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },                   
+    "Atlantic/Jan_Mayen":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },               
+    "Atlantic/Madeira":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },                 
+    "Atlantic/Reykjavik":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },               
+    "Atlantic/South_Georgia":{
+        "-2":["-02", ""]
+    },           
+    "Atlantic/St_Helena":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },               
+    "Atlantic/Stanley":{
+        "-3":["-03", ""]
+    },                 
+    "Australia/ACT":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },                    
+    "Australia/Adelaide":{
+        "9.5":["ACST", "Australian Central Standard Time"],
+        "10.5":["ACDT", "Australian Central Daylight Time"]
+    },               
+    "Australia/Brisbane":{
+        "10":["AEST", "Australian Eastern Standard Time"]
+    },               
+    "Australia/Broken_Hill":{
+        "9.5":["ACST", "Australian Central Standard Time"],
+        "10.5":["ACDT", "Australian Central Daylight Time"]
+    },            
+    "Australia/Canberra":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },               
+    "Australia/Currie":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },                 
+    "Australia/Darwin":{
+        "9.5":["ACST", "Australian Central Standard Time"]
+    },                 
+    "Australia/Eucla":{
+        "8.75":["ACWST", "Australian Central Western Standard Time"]
+    },                  
+    "Australia/Hobart":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },                 
+    "Australia/LHI":{
+        "10.5":["LHST", "Lord Howe Standard Time"],
+        "11":["LHDT", "Lord Howe Daylight Time"]
+    },                    
+    "Australia/Lindeman":{
+        "10":["AEST", "Australian Eastern Standard Time"]
+    },               
+    "Australia/Lord_Howe":{
+        "10.5":["LHST", "Lord Howe Standard Time"],
+        "11":["LHDT", "Lord Howe Daylight Time"]
+    },              
+    "Australia/Melbourne":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },              
+    "Australia/North":{
+        "9.5":["ACST", "Australian Central Standard Time"]
+    },                  
+    "Australia/NSW":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },                    
+    "Australia/Perth":{
+        "8":["AWST", "Australian Western Standard Time"]
+    },                  
+    "Australia/Queensland":{
+        "10":["AEST", "Australian Eastern Standard Time"]
+    },             
+    "Australia/South":{
+        "9.5":["ACST", "Australian Central Standard Time"],
+        "10.5":["ACDT", "Australian Central Daylight Time"]
+    },                  
+    "Australia/Sydney":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },                 
+    "Australia/Tasmania":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },               
+    "Australia/Victoria":{
+        "10":["AEST", "Australian Eastern Standard Time"],
+        "11":["AEDT", "Australian Eastern Daylight Time"]
+    },               
+    "Australia/West":{
+        "8":["AWST", "Australian Western Standard Time"]
+    },                   
+    "Australia/Yancowinna":{
+        "9.5":["ACST", "Australian Central Standard Time"],
+        "10.5":["ACDT", "Australian Central Daylight Time"]
+    },             
+    "Brazil/Acre":{
+        "-5":["-05", ""]
+    },                      
+    "Brazil/DeNoronha":{
+        "-2":["-02", ""]
+    },                 
+    "Brazil/East":{
+        "-3":["-03", ""]
+    },                      
+    "Brazil/West":{
+        "-4":["-04", ""]
+    },                      
+    "Canada/Atlantic":{
+        "-4":["AST", "Atlantic Standard Time"],
+        "-3":["ADT", "Atlantic Daylight Time"]
+    },                  
+    "Canada/Central":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                   
+    "Canada/Eastern":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                   
+    "Canada/East-Saskatchewan":{
+        "-6":["CST", "Central Standard Time"]
+    },         
+    "Canada/Mountain":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },                  
+    "Canada/Newfoundland":{
+        "-3.5":["NST", "Newfoundland Standard Time"],
+        "-2.5":["NDT", "Newfoundland Daylight Time"]
+    },              
+    "Canada/Pacific":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },                   
+    "Canada/Saskatchewan":{
+        "-6":["CST", "Central Standard Time"]
+    },              
+    "Canada/Yukon":{
+        "-7":["MST", "Mountain Standard Time"]
+    },                     
+    "CET":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },
+    "Chile/Continental":{
+        "-4":["CLT", "Chile Standard Time"],
+        "-3":["CLST", "Chile Summer Time"]
+    },                
+    "Chile/EasterIsland":{
+        "-6":["EAST", "Easter Island Standard Time"],
+        "-5":["EASST", "Easter Island Summer Time"]
+    },               
+    "CST6CDT":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },
+    "Cuba":{
+        "-5":["CST", "Cuba Standard Time"],
+        "-4":["CDT", "Cuba Daylight Time"]
+    },                             
+    "Egypt":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                            
+    "Eire":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["IST", "Irish Standard Time"]
+    },
+    "EST":{
+        "-5":["EST", "Eastern Standard Time"]
+    },
+    "EST5EDT":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },
+    "Etc/GMT":{
+        "0":["GMT", "Greenwich Mean Time"]    
+    },                          
+    "Etc/GMT+0":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                        
+    "Etc/GMT+1":{
+        "-1":["-01", ""]
+    },
+    "Etc/GMT+10":{
+        "-10":["-10", ""]
+    },                          
+    "Etc/GMT+11":{
+        "-11":["-11", ""]
+    },                    
+    "Etc/GMT+12":{
+        "-12":["-12", ""]
+    },
+    "Etc/GMT+2":{
+        "-2":["-02", ""]
+    },                    
+    "Etc/GMT+3":{
+        "-3":["-03", ""]
+    },
+    "Etc/GMT+4":{
+        "-4":["-04", ""]
+    },
+    "Etc/GMT+5":{
+        "-5":["-05", ""]
+    },
+    "Etc/GMT+6":{
+        "-6":["-06", ""]
+    },
+    "Etc/GMT+7":{
+        "-7":["-07", ""]
+    },
+    "Etc/GMT+8":{
+        "-8":["-08", ""]
+    },
+    "Etc/GMT+9":{
+        "-9":["-09", ""]
+    },
+    "Etc/GMT-0":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },
+    "Etc/GMT-1":{
+        "1":["+01", ""]
+    },
+    "Etc/GMT-10":{
+        "10":["+10", ""]
+    },
+    "Etc/GMT-11":{
+        "11":["+11", ""]
+    },
+    "Etc/GMT-12":{
+        "12":["+12", ""]
+    },
+    "Etc/GMT-13":{
+        "13":["+13", ""]
+    },
+    "Etc/GMT-14":{
+        "14":["+14", ""]
+    },
+    "Etc/GMT-2":{
+        "2":["+02", ""]
+    },
+    "Etc/GMT-3":{
+        "3":["+03", ""]
+    },
+    "Etc/GMT-4":{
+        "4":["+04", ""]
+    },
+    "Etc/GMT-5":{
+        "5":["+05", ""]
+    },
+    "Etc/GMT-6":{
+        "6":["+06", ""]
+    },
+    "Etc/GMT-7":{
+        "7":["+07", ""]
+    },
+    "Etc/GMT-8":{
+        "8":["+08", ""]
+    },
+    "Etc/GMT-9":{
+        "9":["+09", ""]
+    },
+    "Etc/GMT0":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },
+    "Etc/Greenwich":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },       
+    "Etc/UCT":{
+        "0":["UTC", "Coordinated Universal Time"]
+    },
+    "Etc/Universal":{
+        "0":["UTC", "Coordinated Universal Time"]
+    },
+    "Etc/UTC":{
+        "0":["UTC", "Coordinated Universal Time"]
+    },            
+    "Etc/Zulu":{
+        "0":["UTC", "Coordinated Universal Time"]
+    },                         
+    "Europe/Amsterdam":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                 
+    "Europe/Andorra":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                   
+    "Europe/Astrakhan":{
+        "4":["AST", "Astrakhan Standard Time"]
+    },
+    "Europe/Athens":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                    
+    "Europe/Belfast":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["BST", "British Summer Time"]
+    },                   
+    "Europe/Belgrade":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                  
+    "Europe/Berlin":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Bratislava":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                
+    "Europe/Brussels":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                  
+    "Europe/Bucharest":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                 
+    "Europe/Budapest":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                  
+    "Europe/Busingen":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                  
+    "Europe/Chisinau":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                  
+    "Europe/Copenhagen":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                
+    "Europe/Dublin":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["IST", "Irish Standard Time"]
+    },                    
+    "Europe/Gibraltar":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                 
+    "Europe/Guernsey":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["BST", "British Summer Time"]
+    },                  
+    "Europe/Helsinki":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                  
+    "Europe/Isle_of_Man":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["BST", "British Summer Time"]
+    },               
+    "Europe/Istanbul":{
+        "3":["EET", "Eastern European Time"]
+    },                  
+    "Europe/Jersey":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["BST", "British Summer Time"]
+    },                    
+    "Europe/Kaliningrad":{
+        "2":["EET", "Eastern European Time"]
+    },               
+    "Europe/Kiev":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                      
+    "Europe/Kirov":{
+        "3":["MSK", "Moscow Standard Time"]
+    },
+    "Europe/Kyiv":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },
+    "Europe/Lisbon":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },                    
+    "Europe/Ljubljana":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                 
+    "Europe/London":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["BST", "British Summer Time"]
+    },                    
+    "Europe/Luxembourg":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                
+    "Europe/Madrid":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Malta":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                     
+    "Europe/Mariehamn":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                 
+    "Europe/Minsk":{
+        "3":["MSK", "Moscow Standard Time"]
+    },                     
+    "Europe/Monaco":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Moscow":{
+        "3":["MSK", "Moscow Standard Time"]
+    },                    
+    "Europe/Nicosia":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                   
+    "Europe/Oslo":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                      
+    "Europe/Paris":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                     
+    "Europe/Podgorica":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                 
+    "Europe/Prague":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Riga":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                      
+    "Europe/Rome":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                      
+    "Europe/Samara":{
+        "4":["SAMT", "Samara Time"]
+    },                    
+    "Europe/San_Marino":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                
+    "Europe/Sarajevo":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                  
+    "Europe/Simferopol":{
+        "3":["MSK", "Moscow Standard Time"]
+    },                
+    "Europe/Skopje":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Sofia":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                     
+    "Europe/Stockholm":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                 
+    "Europe/Tallinn":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                   
+    "Europe/Tirane":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Tiraspol":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                  
+    "Europe/Uzhgorod":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                  
+    "Europe/Vaduz":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                     
+    "Europe/Vatican":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                   
+    "Europe/Vienna":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Vilnius":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                   
+    "Europe/Volgograd":{
+        "3":["VOLT", "Volgograd Time"]
+    },                 
+    "Europe/Warsaw":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Zagreb":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                    
+    "Europe/Zaporozhye":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },                
+    "Europe/Zurich":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },  
+    "Europe/Pripet":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },
+    "Eupore/Chisinau":{
+        "2":["EET", "Eastern European Time"],
+        "3":["EEST", "Eastern European Summer Time"]
+    },
+    "Factory":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },
+    "GB":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["BST", "British Summer Time"]
+    },                               
+    "GB-Eire":{
+        "0":["GMT", "Greenwich Mean Time"],
+        "1":["BST", "British Summer Time"]
+    },                          
+    "GMT":{
+        "0:":["GMT", "Greenwich Mean Time"]
+    },                              
+    "GMT+0":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                            
+    "GMT-0":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },
+    "GMT0":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                        
+    "Greenwich":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },
+    "Hongkong":{
+        "8":["HKT", "Hong Kong Time"]
+    },                         
+    "Iceland":{
+        "0":["GMT", "Greenwich Mean Time"]
+    },                          
+    "Indian/Antananarivo":{
+        "3":["EAT", "East Africa Time"]
+    },              
+    "Indian/Chagos":{
+        "6":["IOT", "Indian Ocean Time"]
+    },                    
+    "Indian/Christmas":{
+        "7":["CXT", "Christmas Island Time"]
+    },                 
+    "Indian/Cocos":{
+        "6.5":["CCT", "Cocos Islands Time"]
+    },                     
+    "Indian/Comoro":{
+        "3":["EAT", "East Africa Time"]
+    },                    
+    "Indian/Kerguelen":{
+        "5":["TFT", "French Southern and Antarctic Time"]
+    },                 
+    "Indian/Mahe":{
+        "4":["SCT", "Seychelles Time"]
+    },                      
+    "Indian/Maldives":{
+        "5":["MVT", "Maldives Time"]
+    },                  
+    "Indian/Mauritius":{
+        "4":["MUT", "Mauritius Time"]
+    },                 
+    "Indian/Mayotte":{
+        "3":["EAT", "East Africa Time"]
+    },                   
+    "Indian/Reunion":{
+        "4":["RET", "Réunion Time"]
+    },                   
+    "Iran":{
+        "3.5":["IRST", "Iran Standard Time"]
+    },                             
+    "Israel":{
+        "2":["IST", "Israel Standard Time"],
+        "3":["IDT", "Israel Daylight Time"]
+    },                           
+    "Jamaica":{
+        "-5":["EST", "Eastern Standard Time"]
+    },                          
+    "Japan":{
+        "9":["JST", "Japan Standard Time"]
+    },                            
+    "Kwajalein":{
+        "12":["MHT", "Marshall Islands Time"]
+    },                        
+    "Libya":{
+        "2":["EET", "Eastern European Time"]
+    },                  
+    "MET":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },          
+    "Mexico/BajaCalifornia":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },
+    "Mexico/BajaNorte":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },                 
+    "Mexico/BajaSur":{
+        "-8":["PST", "Pacific Standard Time"]
+    },                 
+    "Mexico/General":{
+        "-6":["CST", "Central Standard Time"]
+    },                   
+    "MST":{
+        "-7":["MST", "Mountain Standard Time"]
+    },
+    "MST":{
+        "-7":["MST", "Mountain Standard Time"]
+    },                           
+    "MST7MDT":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },
+    "Navajo":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },
+    "NZ":{
+        "12":["NZST", "New Zealand Standard Time"],
+        "13":["NZDT", "New Zealand Daylight Time"]
+    },                               
+    "NZ-CHAT":{
+        "12.75":["CHAST", "Chatham Standard Time"],
+        "13.75":["CHADT", "Chatham Daylight Time"]
+    },                          
+    "Pacific/Apia":{
+        "13":["WST", "West Samoa Time"]
+    },                     
+    "Pacific/Auckland":{
+        "12":["NZST", "New Zealand Standard Time"],
+        "13":["NZDT", "New Zealand Daylight Time"]
+    },                 
+    "Pacific/Chatham":{
+        "12.75":["CHAST", "Chatham Standard Time"],
+        "13.75":["CHADT", "Chatham Daylight Time"]
+    },                  
+    "Pacific/Chuuk":{
+        "10":["CHUT", "Chuuk Time"]
+    },                    
+    "Pacific/Easter":{
+        "-6":["EAST", "Easter Island Standard Time"],
+        "-5":["EASST", "Easter Island Summer Time"]
+    },                   
+    "Pacific/Efate":{
+        "11":["VUT", "Vanuatu Time"]
+    },                    
+    "Pacific/Enderbury":{
+        "13":["PHOT", "Phoenix Islands Time"]
+    },                
+    "Pacific/Fakaofo":{
+        "13":["TKT", "Tokelau Time"]
+    },                  
+    "Pacific/Fiji":{
+        "12":["FJT", "Fiji Time"],
+        "13":["FJST", "Fiji Summer Time"]
+    },                     
+    "Pacific/Funafuti":{
+        "12":["TVT", "Tuvalu Time"]
+    },                 
+    "Pacific/Galapagos":{
+        "-6":["GALT", "Galapagos Time"]
+    },                
+    "Pacific/Gambier":{
+        "-9":["GAMT", "Gambier Time"]
+    },                  
+    "Pacific/Guadalcanal":{
+        "11":["SBT", "Solomon Islands Time"]
+    },              
+    "Pacific/Guam":{
+        "10":["ChST", "Chamorro Standard Time"]
+    },                     
+    "Pacific/Honolulu":{
+        "-10":["HST", "Hawaii Standard Time"]
+    },                 
+    "Pacific/Johnston":{
+        "-10":["HST", "Hawaii Standard Time"]
+    },                 
+    "Pacific/Kiritimati":{
+        "14":["LINT", "Line Islands Time"]
+    },               
+    "Pacific/Kosrae":{
+        "11":["KOST", "Kosrae Time"]
+    },                   
+    "Pacific/Kwajalein":{
+        "12":["MHT", "Marshall Islands Time"]
+    },                
+    "Pacific/Majuro":{
+        "12":["MHT", "Marshall Islands Time"]
+    },                   
+    "Pacific/Marquesas":{
+        "-9.5":["MART", "Marquesas Time"]
+    },                
+    "Pacific/Midway":{
+        "-11":["SST", "Samoa Standard Time"]
+    },                   
+    "Pacific/Nauru":{
+        "12":["NRT", "Nauru Time"]
+    },                    
+    "Pacific/Niue":{
+        "-11":["NUT", "Niue Time"]
+    },                     
+    "Pacific/Norfolk":{
+        "11.5":["NFT", "Norfolk Time"]
+    },                  
+    "Pacific/Noumea":{
+        "11":["NCT", "New Caledonia Time"]
+    },                   
+    "Pacific/Pago_Pago":{
+        "-11":["SST", "Samoa Standard Time"]
+    },                
+    "Pacific/Palau":{
+        "9":["PWT", "Palau Time"]
+    },                    
+    "Pacific/Pitcairn":{
+        "-8":["-08", "Pitcaiern Time"]
+    },                 
+    "Pacific/Pohnpei":{
+        "11":["PONT", "Pohnpei Time"]
+    },                  
+    "Pacific/Ponape":{
+        "11":["PONT", "Pohnpei Time"]
+    },                   
+    "Pacific/Port_Moresby":{
+        "10":["PGT", "Papua New Guinea Time"]
+    },             
+    "Pacific/Rarotonga":{
+        "-10":["CKT", "Cook Island Time"]
+    },                
+    "Pacific/Saipan":{
+        "10":["ChST", "Chamorro Standard Time"]
+    },                   
+    "Pacific/Samoa":{
+        "-11":["SST", "Samoa Standard Time"]
+    },                    
+    "Pacific/Tahiti":{
+        "-10":["TAHT", "Tahiti Time"]
+    },                   
+    "Pacific/Tarawa":{
+        "12":["GILT", "Gilbert Island Time"]
+    },                   
+    "Pacific/Tongatapu":{
+        "13":["TOT", "Tonga Time"]
+    },                
+    "Pacific/Truk":{
+        "10":["CHUT", "Chuuk Time"]
+    },                   
+    "Pacific/Wake":{
+        "12":["WAKT", "Wake Time"]
+    },                     
+    "Pacific/Wallis":{
+        "12":["WFT", "Wallis and Futuna Time"]
+    },                   
+    "Pacific/Yap":{
+        "10":["CHUT", "Chuuk Time"]
+    },                      
+    "Poland":{
+        "1":["CET", "Central European Time"],
+        "2":["CEST", "Central European Summer Time"]
+    },                           
+    "Portugal":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },                         
+    "PRC":{
+        "8":["CST", "China Standard Time"]
+    },
+    "PST8PDT":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },
+    "ROC":{
+        "8":["CST", "China Standard Time"]
+    },                              
+    "ROK":{
+        "9":["KST", "Korea Standard Time"]
+    },                              
+    "Singapore":{
+        "8":["SGT", "Singapore Time"]
+    },                        
+    "Turkey":{
+        "3":["TRT", "Turkey Time"]
+    },                           
+    "UCT":{
+        "0":["UTC", "Coordinated Universal Time"]
+    },                              
+    "Universal":{
+        "0":["UTC", "Coordinated Universal Time"]
+    },                        
+    "US/Alaska":{
+        "-9":["AKST", "Alaska Standard Time"],
+        "-8":["AKDT", "Alaska Daylight Time"]
+    },                        
+    "US/Aleutian":{
+        "-10":["HAST", "Hawaii-Aleutian Standard Time"],
+        "-9":["HADT", "Hawaii-Aleutian Daylight Time"]
+    },                      
+    "US/Arizona":{
+        "-7":["MST", "Mountain Standard Time"]
+    },                       
+    "US/Central":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                       
+    "US/Eastern":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]   
+    },                       
+    "US/East-Indiana":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                  
+    "US/Eastern":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },
+    "US/Hawaii":{
+        "-10":["HST", "Hawaii Standard Time"]
+    },                        
+    "US/Indiana-Starke":{
+        "-6":["CST", "Central Standard Time"],
+        "-5":["CDT", "Central Daylight Time"]
+    },                
+    "US/Michigan":{
+        "-5":["EST", "Eastern Standard Time"],
+        "-4":["EDT", "Eastern Daylight Time"]
+    },                      
+    "US/Mountain":{
+        "-7":["MST", "Mountain Standard Time"],
+        "-6":["MDT", "Mountain Daylight Time"]
+    },                      
+    "US/Pacific":{
+        "-8":["PST", "Pacific Standard Time"],
+        "-7":["PDT", "Pacific Daylight Time"]
+    },                       
+    "US/Samoa":{
+        "-11":["SST", "Samoa Standard Time"]
+    },                         
+    "UTC":{
+        "0":["UTC", "Coordinated Universal Time"]
+    },                              
+    "W-SU":{
+        "3":["MSK", "Moscow Standard Time"]
+    },
+    "WET":{
+        "0":["WET", "Western European Time"],
+        "1":["WEST", "Western European Summer Time"]
+    },              
+    "Zulu":{
+        "0":["UTC", "Coordinated Universal Time"]
+    }                   
 }
